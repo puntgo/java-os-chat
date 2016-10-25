@@ -1,0 +1,4 @@
+before u run chat folder paste this folder into C: drive because batch file run ,otherwise
+u can run & compile manually iun any other place .......
+
+good luck...........:) 
